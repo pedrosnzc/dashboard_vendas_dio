@@ -2,7 +2,11 @@
 
 ## 📸 Preview
 
-![Dashboard](imagens/dashboard.png)
+# Dashboard de Vendas no Excel
+
+## 📸 Preview
+
+![Dashboard](dashboard.png)
 
 ## 📥 Download
 
